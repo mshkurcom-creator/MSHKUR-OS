@@ -1,0 +1,6 @@
+{
+  "name": "Mshkur Studio",
+  "description": "المنصة السيادية الاستوديو الكامل لـ Mshkur-OS. تجربة زجاجية مستقبلية لإدارة الكروت الرقمية، الإحالات، ونقاط الرتب بتصميم عربي فاخر وديناميكي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
